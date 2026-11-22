@@ -2,7 +2,8 @@
 
 🔗 **Dashboard:** https://hotel-anggaditas.streamlit.app/
 
-<img width="1915" height="942" alt="image" src="https://github.com/user-attachments/assets/33ec23aa-1e96-48b1-bb6f-b0ca9d70ae16" />
+<img width="1920" height="944" alt="image" src="https://github.com/user-attachments/assets/89a90020-bd76-434d-93e4-cf438cbd35ad" />
+
 
 
 ## Latar Belakang (Studi Kasus)
